@@ -26,7 +26,7 @@ function Footer() {
               <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
                   <Link to={"#"} className="hover:underline">
-                    Flowbite
+                    Redux
                   </Link>
                 </li>
                 <li>
@@ -81,7 +81,7 @@ function Footer() {
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
             © 2023{" "}
             <Link to={"#"} className="hover:underline">
-              Flowbite™
+              React-Redux
             </Link>
             . All Rights Reserved.
           </span>
